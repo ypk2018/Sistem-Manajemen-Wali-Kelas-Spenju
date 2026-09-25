@@ -1,0 +1,6 @@
+{
+  "name": "SIFAK - Sistem Informasi Wali Kelas SMP Negeri 7 Sentani",
+  "description": "Aplikasi Manajemen Kelas Profesional untuk Wali Kelas SMP Negeri 7 Sentani dengan Absensi, Jadwal Kurikulum Merdeka, Jurnal Harian, Nilai Rapor & P5, serta Pelaporan Otomatis dibantu AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
